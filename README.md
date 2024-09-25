@@ -32,7 +32,3 @@ The **Text to Speech Converter** is a simple web application that allows users t
 - HTML5
 - CSS3
 - JavaScript (Web Speech API)
-
----
-
-This file provides a brief overview of the project and its key features.
