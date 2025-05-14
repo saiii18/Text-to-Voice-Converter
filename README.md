@@ -16,9 +16,9 @@ The **Text to Speech Converter** is a simple web application that allows users t
 
 ## Files Included
 
-1. **voice.html**: The main HTML file that defines the structure of the application, including the textarea for input, a dropdown for voice selection, and a button to trigger speech【8†source】.
-2. **style.css**: The CSS file that styles the page. It includes a gradient background, custom button design, and responsive layout adjustments【9†source】.
-3. **script.js**: A JavaScript file that handles the functionality of text-to-speech conversion using the Web Speech API. It allows users to select voices, input text, and listen to the speech output【7†source】.
+1. **voice.html**: The main HTML file that defines the structure of the application, including the textarea for input, a dropdown for voice selection, and a button to trigger speech.
+2. **style.css**: The CSS file that styles the page. It includes a gradient background, custom button design, and responsive layout adjustments.
+3. **script.js**: A JavaScript file that handles the functionality of text-to-speech conversion using the Web Speech API. It allows users to select voices, input text, and listen to the speech output.
 
 ## How to Use
 
